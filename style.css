@@ -1,0 +1,20 @@
+h1{
+    color: red;
+
+}
+h3{
+    color: red;
+}
+#ol-li{
+    color: brown;
+    font-style: italic;
+    text-decoration: underline;
+}
+.ul-li{
+    letter-spacing: 4px;
+    color: brown;
+
+}
+.ol-li-all{
+    color: brown;
+}
